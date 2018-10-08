@@ -13,6 +13,17 @@
 		C0B80563216B673000519B6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0B80562216B673000519B6E /* Assets.xcassets */; };
 		C0B80566216B673000519B6E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0B80564216B673000519B6E /* LaunchScreen.storyboard */; };
 		C0B80569216B673000519B6E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C0B80568216B673000519B6E /* main.m */; };
+		C0B80579216B69A000519B6E /* 大雨@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C0B8056F216B699F00519B6E /* 大雨@2x.png */; };
+		C0B8057A216B69A000519B6E /* 多云@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C0B80570216B699F00519B6E /* 多云@2x.png */; };
+		C0B8057B216B69A000519B6E /* 小雨@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = C0B80571216B699F00519B6E /* 小雨@3x.png */; };
+		C0B8057C216B69A000519B6E /* 雪@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C0B80572216B69A000519B6E /* 雪@2x.png */; };
+		C0B8057D216B69A000519B6E /* 晴@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C0B80573216B69A000519B6E /* 晴@2x.png */; };
+		C0B8057E216B69A000519B6E /* 雪@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = C0B80574216B69A000519B6E /* 雪@3x.png */; };
+		C0B8057F216B69A000519B6E /* 多云@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = C0B80575216B69A000519B6E /* 多云@3x.png */; };
+		C0B80580216B69A000519B6E /* 晴@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = C0B80576216B69A000519B6E /* 晴@3x.png */; };
+		C0B80581216B69A000519B6E /* 小雨@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C0B80577216B69A000519B6E /* 小雨@2x.png */; };
+		C0B80582216B69A000519B6E /* 大雨@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = C0B80578216B69A000519B6E /* 大雨@3x.png */; };
+		C0B80586216B6D5B00519B6E /* UIViewController+Present.m in Sources */ = {isa = PBXBuildFile; fileRef = C0B80584216B6D5B00519B6E /* UIViewController+Present.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +37,18 @@
 		C0B80565216B673000519B6E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C0B80567216B673000519B6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C0B80568216B673000519B6E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C0B8056F216B699F00519B6E /* 大雨@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大雨@2x.png"; sourceTree = "<group>"; };
+		C0B80570216B699F00519B6E /* 多云@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "多云@2x.png"; sourceTree = "<group>"; };
+		C0B80571216B699F00519B6E /* 小雨@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "小雨@3x.png"; sourceTree = "<group>"; };
+		C0B80572216B69A000519B6E /* 雪@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "雪@2x.png"; sourceTree = "<group>"; };
+		C0B80573216B69A000519B6E /* 晴@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "晴@2x.png"; sourceTree = "<group>"; };
+		C0B80574216B69A000519B6E /* 雪@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "雪@3x.png"; sourceTree = "<group>"; };
+		C0B80575216B69A000519B6E /* 多云@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "多云@3x.png"; sourceTree = "<group>"; };
+		C0B80576216B69A000519B6E /* 晴@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "晴@3x.png"; sourceTree = "<group>"; };
+		C0B80577216B69A000519B6E /* 小雨@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "小雨@2x.png"; sourceTree = "<group>"; };
+		C0B80578216B69A000519B6E /* 大雨@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "大雨@3x.png"; sourceTree = "<group>"; };
+		C0B80584216B6D5B00519B6E /* UIViewController+Present.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+Present.m"; sourceTree = "<group>"; };
+		C0B80585216B6D5B00519B6E /* UIViewController+Present.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+Present.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +81,8 @@
 		C0B80558216B672D00519B6E /* CXChangeAppIcon */ = {
 			isa = PBXGroup;
 			children = (
+				C0B80585216B6D5B00519B6E /* UIViewController+Present.h */,
+				C0B80584216B6D5B00519B6E /* UIViewController+Present.m */,
 				C0B80559216B672D00519B6E /* AppDelegate.h */,
 				C0B8055A216B672D00519B6E /* AppDelegate.m */,
 				C0B8055C216B672D00519B6E /* ViewController.h */,
@@ -65,10 +90,28 @@
 				C0B8055F216B672D00519B6E /* Main.storyboard */,
 				C0B80562216B673000519B6E /* Assets.xcassets */,
 				C0B80564216B673000519B6E /* LaunchScreen.storyboard */,
+				C0B80583216B69A700519B6E /* Icon */,
 				C0B80567216B673000519B6E /* Info.plist */,
 				C0B80568216B673000519B6E /* main.m */,
 			);
 			path = CXChangeAppIcon;
+			sourceTree = "<group>";
+		};
+		C0B80583216B69A700519B6E /* Icon */ = {
+			isa = PBXGroup;
+			children = (
+				C0B8056F216B699F00519B6E /* 大雨@2x.png */,
+				C0B80578216B69A000519B6E /* 大雨@3x.png */,
+				C0B80570216B699F00519B6E /* 多云@2x.png */,
+				C0B80575216B69A000519B6E /* 多云@3x.png */,
+				C0B80573216B69A000519B6E /* 晴@2x.png */,
+				C0B80576216B69A000519B6E /* 晴@3x.png */,
+				C0B80577216B69A000519B6E /* 小雨@2x.png */,
+				C0B80571216B699F00519B6E /* 小雨@3x.png */,
+				C0B80572216B69A000519B6E /* 雪@2x.png */,
+				C0B80574216B69A000519B6E /* 雪@3x.png */,
+			);
+			path = Icon;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -129,7 +172,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				C0B80566216B673000519B6E /* LaunchScreen.storyboard in Resources */,
+				C0B80581216B69A000519B6E /* 小雨@2x.png in Resources */,
+				C0B8057D216B69A000519B6E /* 晴@2x.png in Resources */,
+				C0B80579216B69A000519B6E /* 大雨@2x.png in Resources */,
+				C0B8057C216B69A000519B6E /* 雪@2x.png in Resources */,
+				C0B8057E216B69A000519B6E /* 雪@3x.png in Resources */,
 				C0B80563216B673000519B6E /* Assets.xcassets in Resources */,
+				C0B8057A216B69A000519B6E /* 多云@2x.png in Resources */,
+				C0B8057B216B69A000519B6E /* 小雨@3x.png in Resources */,
+				C0B80582216B69A000519B6E /* 大雨@3x.png in Resources */,
+				C0B80580216B69A000519B6E /* 晴@3x.png in Resources */,
+				C0B8057F216B69A000519B6E /* 多云@3x.png in Resources */,
 				C0B80561216B672D00519B6E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -143,6 +196,7 @@
 			files = (
 				C0B8055E216B672D00519B6E /* ViewController.m in Sources */,
 				C0B80569216B673000519B6E /* main.m in Sources */,
+				C0B80586216B6D5B00519B6E /* UIViewController+Present.m in Sources */,
 				C0B8055B216B672D00519B6E /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -286,6 +340,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 3RTPA62VT2;
 				INFOPLIST_FILE = CXChangeAppIcon/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -302,6 +357,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 3RTPA62VT2;
 				INFOPLIST_FILE = CXChangeAppIcon/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
