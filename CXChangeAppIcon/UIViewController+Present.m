@@ -14,6 +14,7 @@
 //拦截弹框
 
 //每次更换 icon 时系统会自动弹出提示框, 如不需要, 怎使用该类进行拦截
+
 + (void)load {
     
     static dispatch_once_t onceToken;
